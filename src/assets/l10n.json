@@ -1,0 +1,4 @@
+{
+  "hello": "Hello {suffix}",
+  "world": "{prefix} World"
+}
